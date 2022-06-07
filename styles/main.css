@@ -1,0 +1,55 @@
+#cat {
+    width: 30%;
+}
+
+#cat:hover {
+    width: 40%;
+    border: 10px;
+    border-color: azure;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px greenyellow;
+    text-align: center;
+}
+
+span {
+    border: 1px;
+    border-color: aquamarine;
+    border-radius: 20px;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+}
+
+.title {
+    font-size: 60px;
+    background-color: cadetblue;
+    border: 13px;
+    border-color: grey;
+}
+
+br {
+    height: 10px;
+}
+
+.links {
+    background-color: bisque;
+    border-radius: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: azure;
+}
+
+marquee {
+    font-family: cursive;
+    font-size: 30px;
+    color: blueviolet;
+}
+
+a:visited {
+    color: green;
+}
